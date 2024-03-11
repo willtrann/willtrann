@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @willtrann
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning javascript, C and C++
+- 🖥️ 2nd Year Computer Science Student
